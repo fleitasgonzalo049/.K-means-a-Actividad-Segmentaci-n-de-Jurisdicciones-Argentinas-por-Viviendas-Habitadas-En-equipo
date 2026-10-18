@@ -12,6 +12,7 @@ Agrupar las 24 jurisdicciones de Argentina en tres segmentos homogéneos según 
 - `segmentacion_viviendas.py`: Script principal en Python con la implementación del modelo y visualizaciones.
 - `README.md`: Documentación detallada del proyecto.
 - CONCLUSION.md: informe detallado y conclusion final.
+- grafico_segmentacion.png: grafico final resolutivo.
 
 ## Requisitos y Ejecución
 Asegúrate de tener instaladas las librerías necesarias ejecutando:
